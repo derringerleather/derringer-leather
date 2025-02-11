@@ -6,60 +6,101 @@
     <link rel="icon" type="image/x-icon" href="./assets/images/logo.webp">
     <title>Derringer Leather</title>
     <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/checkout.css">
+    <link rel="stylesheet" href="./assets/css/collection.css">
 </head>
 <body>
 
     <header></header>
 
     <main>
-
-        <h2>Checkout</h2>
-        <div id="order-summary"></div>
         
-        <form id="checkout-form" action="https://formsubmit.co/khiljiasad2@gmail.com" method="post">
-            <h3>Shipping Details</h3>
-            <label>Full Name</label>
-            <input type="text" id="fullName" name="name" required><br>
-            
-            <label>Email</label>
-            <input type="email" id="email" name="email" required><br>
-            
-            <label>Address</label>
-            <input type="text" id="address" name="address" required><br>
-            
-            <label>City</label>
-            <input type="text" id="city" name="city" required><br>
+        <div id="products-container" class="row"></div>
 
-            <label>State</label>
-            <input type="text" id="state" name="state" required><br>
-            
-            <label>Postal Code</label>
-            <input type="text" id="postalCode" name="zip-code" required><br>
-            
-            <label>Country</label>
-            <input type="text" id="country" name="country" required><br>
-            
-            <!-- <h3>Payment Details</h3>
-            <label>Card Number</label>
-            <input type="text" id="cardNumber" name="cardNumber" required><br>
-            
-            <label>Expiration Date</label>
-            <input type="text" id="expDate" name="expDate" placeholder="MM/YY" required><br>
-            
-            <label>CVV</label>
-            <input type="text" id="cvv" name="cvv" required><br> -->
-            
-            <button type="submit">Place Order</button>
-        </form>
+        <!-- Pagination Controls -->
+        <div id="pagination">
+            <button id="prevPage" disabled>Previous</button>
+            <span id="pageNumber">1</span>
+            <button id="nextPage">Next</button>
+        </div>
 
+        
+        <br>
+
+        <div class="accordion">
+            <h2>FAQ</h2><br>
+            <div class="tab">
+                <input type="checkbox" id="tab1">
+                <label for="tab1">How long does my order take to ship?</label>
+                <div class="tab-content">
+                    <p>Orders placed before 3 PM EST typically ship the same day. Orders placed after 3 PM EST will ship the next business day. For weekend orders, please allow 48-72 hours for processing..</p>
+                </div>
+            </div>
+    
+            <div class="tab">
+                <input type="checkbox" id="tab2">
+                <label for="tab2">How do you ship the orders?</label>
+                <div class="tab-content">
+                    <p>We use UPS or USPS to ship our orders. The responsibility for delivery transfers to the carrier once your package leaves our facility.</p>
+                </div>
+            </div>
+    
+            <div class="tab">
+                <input type="checkbox" id="tab3">
+                <label for="tab3">Can I have my order any faster?</label>
+                <div class="tab-content">
+                    <p>We offer various shipping options, including expedited services. If you need faster shipping, please contact us before placing your order to discuss available options.</p>
+                </div>
+            </div>
+
+            <div class="tab">
+                <input type="checkbox" id="tab3">
+                <label for="tab3">Can I ship my order using a different billing address?</label>
+                <div class="tab-content">
+                    <p>Yes, you can ship your order to a different address from your billing address. Just ensure that the shipping address is correctly entered during checkout.</p>
+                </div>
+            </div>
+
+            <div class="tab">
+                <input type="checkbox" id="tab3">
+                <label for="tab3">How can I check on the status of my order?</label>
+                <div class="tab-content">
+                    <p>You can track your order status using the tracking number provided in your shipping confirmation email. Additionally, you can log in to your account on our website for updates.</p>
+                </div>
+            </div>
+
+            <div class="tab">
+                <input type="checkbox" id="tab3">
+                <label for="tab3">Can I make a change to my order?</label>
+                <div class="tab-content">
+                    <p>If your order was placed before 3 PM EST, we may be able to accommodate changes. Contact our customer service team immediately at (800)-766-8645. Note that some changes may not be possible depending on the order status.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-3">
+                <img src="./assets/images/customer-service.webp" alt="">
+                <h2>Any Questions</h2>
+                <p>Call us at 1-800-766-8645</p>
+            </div>
+            <div class="col-3">
+                <img src="./assets/images/returns.webp" alt="">
+                <h2>Hassle Free Returns</h2>
+                <p>Buy with Confidence</p>
+            </div>
+            <div class="col-3">
+                <img src="./assets/images/family.webp" alt="">
+                <h2>Family Owned Business</h2>
+                <p>Since 1985</p>
+            </div>
+        </div>
 
     </main>
 
     <footer></footer>
 
     <script src="./assets/js/script.js"></script>
-    <script src="./assets/js/checkout.js"></script>
+    <script src="./assets/js/collection.js"></script>
     
 </body>
 </html>
