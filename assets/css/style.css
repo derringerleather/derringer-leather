@@ -149,4 +149,9 @@ nav a {
         flex-basis: 100%;
         padding: 10px;
     }
+
+     .col-3 a {
+        text-decoration: none;
+        color: black;
+    }
 }
