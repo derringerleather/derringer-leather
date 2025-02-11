@@ -1,0 +1,78 @@
+.col-2 {
+    flex-basis: 50%;
+    line-height: 2;
+    padding: 10px;
+}
+
+.col-2 img {
+    width: 100%;
+    height: 550px;
+    object-fit: contain;
+    overflow: hidden;
+}
+
+.btn {
+    background-color: lightgray;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: gray;
+    color: white;
+}
+
+.accordion {
+    max-width: 500px;
+    padding: 10px;
+}
+
+.tab {
+    position: relative;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+.tab input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+}
+
+.tab label {
+    display: block;
+    background: lightgray;
+    color: black;
+    padding: 15px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.tab label:hover {
+    background: gray;
+    color: white;
+}
+
+.tab-content {
+    max-height: 0;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 0 15px;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+}
+
+.tab input:checked ~ .tab-content {
+    max-height: 200px;
+    padding: 15px;
+}
+
+
+@media (max-width: 500px) {
+    .col-2 {
+        flex-basis: 100%;
+        padding: 10px;
+    }
+}

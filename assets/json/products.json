@@ -1,0 +1,1118 @@
+[
+    {
+        "id": 1,
+        "name": "6905.LA",
+        "price": "$249.99",
+        "image": "./assets/images/6905-LA.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Black",
+        "description": "Experience the perfect blend of style and functionality with the Style # 6905.LA Men's Premium Black (Voltage) Hoody Vented Jacket. Crafted from durable lambskin leather, this jacket features a unique hoody design, advanced venting, and ample storage options, making it an essential choice for motorcycle enthusiasts and urban adventurers. Embrace rugged elegance and unparalleled functionality designed to elevate your riding experience and urban style."
+    },
+    {
+        "id": 2,
+        "name": "TW205.20",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-20.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Gray",
+        "description": "The Men's Black and Gray Flannel Shirt (Style # TW205.20) by Unik Riding Gear blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 3,
+        "name": "9212.00",
+        "price": "$49.99",
+        "image": "./assets/images/9212-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Embrace rugged elegance with the Premium Cowhide Leather Cowboy Hat, designed to combine classic Western style with modern craftsmanship. Crafted from supple cowhide leather and accented with a durable metal wire around the brim, this hat offers both functionality and distinctive flair. Whether worn for practical protection or as a fashion statement, it embodies the spirit of the American frontier while catering to contemporary tastes."
+    },
+    {
+        "id": 4,
+        "name": "9230.00",
+        "price": "$69.99",
+        "image": "./assets/images/9230-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 5,
+        "name": "6832.00",
+        "price": "$189.99",
+        "image": "./assets/images/6832-00.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Black",
+        "description": "Embrace classic motorcycle jacket style with the Style # 6832.00 Ladies Traditional M.C. Jacket by Derringer Leather. Crafted from luxurious lambskin leather in timeless black, this jacket combines traditional design elements with practical features, making it a versatile addition to your wardrobe. Step into timeless elegance and practicality designed to enhance your wardrobe with its classic motorcycle jacket design and luxurious leather construction suitable for various occasions."
+    },
+    {
+        "id": 6,
+        "name": "6897.00",
+        "price": "$99.99",
+        "image": "./assets/images/6897-00.webp",
+        "category": "Ladies Leather Vest",
+        "color": "Black",
+        "description": "Style # 6897.00 embodies classic sophistication in a ladies' premium traditional vest, crafted from luxurious lambskin leather. Its timeless design includes a one-panel back and adjustable side laces, offering both style and versatility. This traditional vest is tailored for women who appreciate understated elegance and functional design. Made from premium lambskin leather in a sleek black color,"
+    },
+    {
+        "id": 7,
+        "name": "TW255.17",
+        "price": "$49.99",
+        "image": "./assets/images/TW255-17.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and Purple",
+        "description": "The Ladies Black and Purple Flannel Shirt by Unik Riding Gear blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and purple color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 8,
+        "name": "2151.PL",
+        "price": "$29.99",
+        "image": "./assets/images/2151-PL.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 9,
+        "name": "5735.00",
+        "price": "$69.99",
+        "image": "./assets/images/5735-00.webp",
+        "category": "Thigh Bag",
+        "color": "Black",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
+    },
+    {
+        "id": 10,
+        "name": "5767.00",
+        "price": "$39.99",
+        "image": "./assets/images/5767-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Black",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 11,
+        "name": "2053.00",
+        "price": "$39.99",
+        "image": "./assets/images/2053-00.webp",
+        "category": "Biker Get Back Whip",
+        "color": "Black",
+        "description": "Elevate your riding experience with our meticulously crafted biker get back whips, expertly fashioned from premium cowhide leather. Our premium cowhide leather biker get back whips combine classic craftsmanship with modern durability, offering bikers a stylish and functional accessory that complements any ride."
+    },
+    {
+        "id": 12,
+        "name": "5755.00",
+        "price": "$9.99",
+        "image": "./assets/images/5755-AS.webp",
+        "category": "Vest Extender",
+        "color": "Black and Silver",
+        "description": "Transform your wardrobe with Unik International's Vest Extenders, designed for both comfort and style. These extenders are crafted to enhance the fit and versatility of your vests, ensuring a perfect adjustment that complements any outfit."
+    },
+    {
+        "id": 13,
+        "name": "5756.00",
+        "price": "$9.99",
+        "image": "./assets/images/5756-00.webp",
+        "category": "Vest Laces",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 14,
+        "name": "9214.00",
+        "price": "$49.99",
+        "image": "./assets/images/9214-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Brown",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 15,
+        "name": "9221.00",
+        "price": "$49.99",
+        "image": "./assets/images/9221-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 16,
+        "name": "9238.00",
+        "price": "$49.99",
+        "image": "./assets/images/9238-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 17,
+        "name": "9238.BR",
+        "price": "$49.99",
+        "image": "./assets/images/9238-BR.webp",
+        "category": "Cowboy Hat",
+        "color": "Brown",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 18,
+        "name": "9240.00",
+        "price": "$49.99",
+        "image": "./assets/images/9240-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 19,
+        "name": "9241.00",
+        "price": "$49.99",
+        "image": "./assets/images/9241-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 20,
+        "name": "9224.00",
+        "price": "$49.99",
+        "image": "./assets/images/9224-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Brown",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 21,
+        "name": "9225.00",
+        "price": "$49.99",
+        "image": "./assets/images/9225-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Brown",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 22,
+        "name": "9231.00",
+        "price": "$49.99",
+        "image": "./assets/images/9231-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Black",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 23,
+        "name": "9215.00",
+        "price": "$49.99",
+        "image": "./assets/images/9215-00.webp",
+        "category": "Cowboy Hat",
+        "color": "Brown",
+        "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+    {
+        "id": 24,
+        "name": "9227.00",
+        "price": "$69.99",
+        "image": "./assets/images/9227-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 25,
+        "name": "9228.00",
+        "price": "$69.99",
+        "image": "./assets/images/9228-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 26,
+        "name": "9229.00",
+        "price": "$69.99",
+        "image": "./assets/images/9229-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 27,
+        "name": "9233.00",
+        "price": "$69.99",
+        "image": "./assets/images/9233-00.webp",
+        "category": "Top Hat",
+        "color": "Brown",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 28,
+        "name": "9234.00",
+        "price": "$69.99",
+        "image": "./assets/images/9234-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 29,
+        "name": "9235.00",
+        "price": "$69.99",
+        "image": "./assets/images/9235-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 30,
+        "name": "9236.00",
+        "price": "$69.99",
+        "image": "./assets/images/9236-00.webp",
+        "category": "Top Hat",
+        "color": "Black",
+        "description": "Elevate your attire with the Men's Premium Cowhide Leather Top Hat, a symbol of sophistication and timeless style. Crafted from the finest cowhide leather, this hat exudes luxury and durability, making it a standout accessory for any occasion. Its sleek silhouette and impeccable craftsmanship make it a versatile choice, whether for formal gatherings or as a distinctive addition to everyday wear."
+    },
+    {
+        "id": 31,
+        "name": "9702.BRG",
+        "price": "$29.99",
+        "image": "./assets/images/9702-BRG.webp",
+        "category": "Clip on Bag",
+        "color": "Burgundy",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 32,
+        "name": "9703.10",
+        "price": "$29.99",
+        "image": "./assets/images/9703-10.webp",
+        "category": "Clip on Bag",
+        "color": "Ivory",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 33,
+        "name": "9704.NY",
+        "price": "$29.99",
+        "image": "./assets/images/9704-NY.webp",
+        "category": "Clip on Bag",
+        "color": "Navy Blue",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 34,
+        "name": "9705.TAN",
+        "price": "$29.99",
+        "image": "./assets/images/9705-TAN.webp",
+        "category": "Clip on Bag",
+        "color": "Tan",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 35,
+        "name": "9707.17",
+        "price": "$29.99",
+        "image": "./assets/images/9707-17.webp",
+        "category": "Clip on Bag",
+        "color": "Purple",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 36,
+        "name": "9709.GY",
+        "price": "$29.99",
+        "image": "./assets/images/9709-GY.webp",
+        "category": "Clip on Bag",
+        "color": "Gray",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 37,
+        "name": "2114.BR",
+        "price": "$39.99",
+        "image": "./assets/images/2114-BR.webp",
+        "category": "Clip on Bag",
+        "color": "Brown",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 38,
+        "name": "5753.17",
+        "price": "$29.99",
+        "image": "./assets/images/5753-17.webp",
+        "category": "Clip on Bag",
+        "color": "Black anf Purple",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 39,
+        "name": "5753.01",
+        "price": "$29.99",
+        "image": "./assets/images/5753-01.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Red",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 40,
+        "name": "5753.24",
+        "price": "$29.99",
+        "image": "./assets/images/5753-24.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Pink",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 41,
+        "name": "5754.00",
+        "price": "$29.99",
+        "image": "./assets/images/2151-PL.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 42,
+        "name": "2152.PL",
+        "price": "$29.99",
+        "image": "./assets/images/2152-PL.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 43,
+        "name": "2156.01",
+        "price": "$29.99",
+        "image": "./assets/images/2156-01.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Red",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 44,
+        "name": "2156.17",
+        "price": "$29.99",
+        "image": "./assets/images/2156-17.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Purple",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 45,
+        "name": "2156.24",
+        "price": "$29.99",
+        "image": "./assets/images/2156-24.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Pink",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 46,
+        "name": "2156.18",
+        "price": "$29.99",
+        "image": "./assets/images/2156-18.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Gray",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 47,
+        "name": "9700.22",
+        "price": "$29.99",
+        "image": "./assets/images/9700-22.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Pink",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 48,
+        "name": "9700.00",
+        "price": "$29.99",
+        "image": "./assets/images/9700-00.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 49,
+        "name": "9700.01",
+        "price": "$29.99",
+        "image": "./assets/images/9700-01.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Red",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 50,
+        "name": "9700.17",
+        "price": "$29.99",
+        "image": "./assets/images/9700-17.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Purple",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 51,
+        "name": "9700.18",
+        "price": "$29.99",
+        "image": "./assets/images/9700-18.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Gray",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 52,
+        "name": "9737.01",
+        "price": "$29.99",
+        "image": "./assets/images/9737-01.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Red",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 53,
+        "name": "9737.17",
+        "price": "$29.99",
+        "image": "./assets/images/9737-17.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Purple",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 54,
+        "name": "9737.24",
+        "price": "$29.99",
+        "image": "./assets/images/9737-24.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Pink",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 55,
+        "name": "9737.50",
+        "price": "$29.99",
+        "image": "./assets/images/9737-50.webp",
+        "category": "Clip on Bag",
+        "color": "Black and Teal",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 56,
+        "name": "9723.00",
+        "price": "$29.99",
+        "image": "./assets/images/9723-00.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 57,
+        "name": "9728.00",
+        "price": "$29.99",
+        "image": "./assets/images/9728-00.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 58,
+        "name": "9729.00",
+        "price": "$29.99",
+        "image": "./assets/images/9729-00.webp",
+        "category": "Clip on Bag",
+        "color": "Black",
+        "description": "Elevate your riding gear with the Ladies Leather Clip-On Bag from Unik, meticulously crafted from luxurious cowhide leather. Designed for both functionality and style, this bag features silver hardware accents, two hook and loop clips for secure attachment, and a versatile 54 shoulder strap. Whether used on or off the bike, it offers convenient storage and a touch of elegance to your ensemble"
+    },
+    {
+        "id": 59,
+        "name": "5767.01",
+        "price": "$39.99",
+        "image": "./assets/images/5767-01.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Tan",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 60,
+        "name": "5767.02",
+        "price": "$39.99",
+        "image": "./assets/images/5767-02.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Red",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 61,
+        "name": "5767.03",
+        "price": "$39.99",
+        "image": "./assets/images/5767-03.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Brown",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 62,
+        "name": "9059.00",
+        "price": "$29.99",
+        "image": "./assets/images/9059-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Black",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 63,
+        "name": "9060.00",
+        "price": "$29.99",
+        "image": "./assets/images/9060-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Black",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 64,
+        "name": "9055.00",
+        "price": "$29.99",
+        "image": "./assets/images/9055-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Brown",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 65,
+        "name": "9082.00",
+        "price": "$29.99",
+        "image": "./assets/images/9082-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Black",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 66,
+        "name": "9084.00",
+        "price": "$29.99",
+        "image": "./assets/images/9084-00.webp",
+        "category": "Biker Chain Wallet",
+        "color": "Black",
+        "description": "Elevate your biker style with the Biker Chain Wallet, a rugged accessory that blends functionality with distinctive flair. Crafted from premium leather, these wallets feature a chain attachment that adds a bold statement while securing your essentials. Ideal for motorcycle riders and enthusiasts, they offer multiple compartments for cards, cash, and coins, ensuring practicality on the go. The durable construction and secure closure make them a reliable companion for everyday use, whether riding or exploring the city streets with confidence and style."
+    },
+    {
+        "id": 67,
+        "name": "5851.00",
+        "price": "$29.99",
+        "image": "./assets/images/5851-00.webp",
+        "category": "Leather Belt",
+        "color": "Black",
+        "description": "Elevate your wardrobe with our Premium Leather Belt, crafted from the finest full-grain leather for unparalleled durability and sophistication. Designed with both style and function in mind, this belt features a sleek, timeless design that complements any outfit, from formal suits to casual jeans. Its adjustable fit ensures maximum comfort, while the high-quality construction promises long-lasting wear."
+    },
+    {
+        "id": 68,
+        "name": "5852.00",
+        "price": "$29.99",
+        "image": "./assets/images/5852-00.webp",
+        "category": "Leather Belt",
+        "color": "Brown",
+        "description": "Elevate your wardrobe with our Premium Leather Belt, crafted from the finest full-grain leather for unparalleled durability and sophistication. Designed with both style and function in mind, this belt features a sleek, timeless design that complements any outfit, from formal suits to casual jeans. Its adjustable fit ensures maximum comfort, while the high-quality construction promises long-lasting wear."
+    },
+    {
+        "id": 69,
+        "name": "5853.00",
+        "price": "$29.99",
+        "image": "./assets/images/5853-00.webp",
+        "category": "Leather Belt",
+        "color": "Black",
+        "description": "Elevate your wardrobe with our Premium Leather Belt, crafted from the finest full-grain leather for unparalleled durability and sophistication. Designed with both style and function in mind, this belt features a sleek, timeless design that complements any outfit, from formal suits to casual jeans. Its adjustable fit ensures maximum comfort, while the high-quality construction promises long-lasting wear."
+    },
+    {
+        "id": 70,
+        "name": "6832.17",
+        "price": "$199.99",
+        "image": "./assets/images/6832-17.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Purple",
+        "description": "Embrace classic motorcycle jacket style with the Style # 6832.17 Ladies Traditional M.C. Jacket by Derringer Leather. Crafted from luxurious lambskin leather in timeless black, this jacket combines traditional design elements with practical features, making it a versatile addition to your wardrobe. Step into timeless elegance and practicality designed to enhance your wardrobe with its classic motorcycle jacket design and luxurious leather construction suitable for various occasions."
+    },
+    {
+        "id": 71,
+        "name": "6832.01",
+        "price": "$199.99",
+        "image": "./assets/images/6832-01.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Red",
+        "description": "Embrace classic motorcycle jacket style with the Style # 6832.01 Ladies Traditional M.C. Jacket by Derringer Leather. Crafted from luxurious lambskin leather in timeless black, this jacket combines traditional design elements with practical features, making it a versatile addition to your wardrobe. Step into timeless elegance and practicality designed to enhance your wardrobe with its classic motorcycle jacket design and luxurious leather construction suitable for various occasions."
+    },
+    {
+        "id": 72,
+        "name": "6832.GY",
+        "price": "$199.99",
+        "image": "./assets/images/6832-GY.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Gray",
+        "description": "Embrace classic motorcycle jacket style with the Style # 6832.GY Ladies Traditional M.C. Jacket by Derringer Leather. Crafted from luxurious lambskin leather in timeless black, this jacket combines traditional design elements with practical features, making it a versatile addition to your wardrobe. Step into timeless elegance and practicality designed to enhance your wardrobe with its classic motorcycle jacket design and luxurious leather construction suitable for various occasions."
+    },
+    {
+        "id": 73,
+        "name": "6841.00",
+        "price": "$239.99",
+        "image": "./assets/images/6841-00.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Black",
+        "description": "Discover the perfect blend of style and functionality with the Ladies Premium (Yomi) Vented Hoody Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines a modern hoody design with premium features for comfort, protection, and practicality. Step into modern sophistication and practicality designed to elevate your wardrobe with its luxurious material, contemporary design, and advanced features suitable for various outdoor activities and urban adventures."
+    },
+    {
+        "id": 74,
+        "name": "6841.17",
+        "price": "$249.99",
+        "image": "./assets/images/6841-17.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Purple",
+        "description": "Discover the perfect blend of style and functionality with the Ladies Premium (Yomi) Vented Hoody Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines a modern hoody design with premium features for comfort, protection, and practicality. Step into modern sophistication and practicality designed to elevate your wardrobe with its luxurious material, contemporary design, and advanced features suitable for various outdoor activities and urban adventures."
+    },
+    {
+        "id": 74,
+        "name": "6841.ANT",
+        "price": "$249.99",
+        "image": "./assets/images/6841-ANT.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Brown",
+        "description": "Discover the perfect blend of style and functionality with the Ladies Premium (Yomi) Vented Hoody Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines a modern hoody design with premium features for comfort, protection, and practicality. Step into modern sophistication and practicality designed to elevate your wardrobe with its luxurious material, contemporary design, and advanced features suitable for various outdoor activities and urban adventures."
+    },
+    {
+        "id": 75,
+        "name": "6841.GY",
+        "price": "$249.99",
+        "image": "./assets/images/6841-GY.webp",
+        "category": "Ladies Leather Jacket",
+        "color": "Gray",
+        "description": "Discover the perfect blend of style and functionality with the Ladies Premium (Yomi) Vented Hoody Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines a modern hoody design with premium features for comfort, protection, and practicality. Step into modern sophistication and practicality designed to elevate your wardrobe with its luxurious material, contemporary design, and advanced features suitable for various outdoor activities and urban adventures."
+    },
+    {
+        "id": 76,
+        "name": "6897.17",
+        "price": "$99.99",
+        "image": "./assets/images/6897-17.webp",
+        "category": "Ladies Leather Vest",
+        "color": "Purple",
+        "description": "Style # 6897.17 embodies classic sophistication in a ladies' premium traditional vest, crafted from luxurious lambskin leather. Its timeless design includes a one-panel back and adjustable side laces, offering both style and versatility. This traditional vest is tailored for women who appreciate understated elegance and functional design. Made from premium lambskin leather in a sleek black color,"
+    },
+    {
+        "id": 77,
+        "name": "6897.ANT",
+        "price": "$99.99",
+        "image": "./assets/images/6897-ANT.webp",
+        "category": "Ladies Leather Vest",
+        "color": "Brown",
+        "description": "Style # 6897.ANT embodies classic sophistication in a ladies' premium traditional vest, crafted from luxurious lambskin leather. Its timeless design includes a one-panel back and adjustable side laces, offering both style and versatility. This traditional vest is tailored for women who appreciate understated elegance and functional design. Made from premium lambskin leather in a sleek black color,"
+    },
+    {
+        "id": 78,
+        "name": "6897.GY",
+        "price": "$99.99",
+        "image": "./assets/images/6897-GY.webp",
+        "category": "Ladies Leather Vest",
+        "color": "Gray",
+        "description": "Style # 6897.GY embodies classic sophistication in a ladies' premium traditional vest, crafted from luxurious lambskin leather. Its timeless design includes a one-panel back and adjustable side laces, offering both style and versatility. This traditional vest is tailored for women who appreciate understated elegance and functional design. Made from premium lambskin leather in a sleek black color,"
+    },
+    {
+        "id": 79,
+        "name": "6924.00",
+        "price": "$229.99",
+        "image": "./assets/images/6924-00.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Black",
+        "description": "Men's Premium Leather Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines timeless style with practical functionality, making it an essential addition to any sophisticated wardrobe. Indulge in luxury and sophistication designed to elevate your style effortlessly while providing practical features for everyday wear."
+    },
+    {
+        "id": 80,
+        "name": "6924.ANT",
+        "price": "$239.99",
+        "image": "./assets/images/6924-ANT.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Brown",
+        "description": "Men's Premium Leather Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines timeless style with practical functionality, making it an essential addition to any sophisticated wardrobe. Indulge in luxury and sophistication designed to elevate your style effortlessly while providing practical features for everyday wear."
+    },
+    {
+        "id": 81,
+        "name": "6924.BRD",
+        "price": "$239.99",
+        "image": "./assets/images/6924-BRD.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Brown",
+        "description": "Men's Premium Leather Jacket by Derringer Leather. Crafted from luxurious lambskin leather in classic black, this jacket combines timeless style with practical functionality, making it an essential addition to any sophisticated wardrobe. Indulge in luxury and sophistication designed to elevate your style effortlessly while providing practical features for everyday wear."
+    },
+    {
+        "id": 82,
+        "name": "6037.RUB",
+        "price": "$249.99",
+        "image": "./assets/images/6037-RUB.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Brown",
+        "description": "Men's Ultra Leather Jacket by Unik Ultra in Distressed Brown annd it offers a blend of rugged style with practical features for everyday wear. Made from cowhide leather and crafted in Pakistan, it combines classic design elements with modern functionality. This jacket is designed to meet the needs of both style-conscious individuals and those seeking practical features for various weather conditions, making it suitable for a range of outdoor activities and casual settings."
+    },
+    {
+        "id": 83,
+        "name": "6905.GY",
+        "price": "$249.99",
+        "image": "./assets/images/6905-GY.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Gray",
+        "description": "Experience the perfect blend of style and functionality with the Men's Premium Black (Voltage) Hoody Vented Jacket. Crafted from durable lambskin leather, this jacket features a unique hoody design, advanced venting, and ample storage options, making it an essential choice for motorcycle enthusiasts and urban adventurers. Embrace rugged elegance and unparalleled functionality designed to elevate your riding experience and urban style."
+    },
+    {
+        "id": 84,
+        "name": "6905.AGR",
+        "price": "$249.99",
+        "image": "./assets/images/6905-AGR.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Distrssed Gray",
+        "description": "Experience the perfect blend of style and functionality with the Men's Premium Black (Voltage) Hoody Vented Jacket by Unik Ultra. Crafted from durable cowhide leather, this jacket features a unique hoody design, advanced venting, and ample storage options, making it an essential choice for motorcycle enthusiasts and urban adventurers. Embrace rugged elegance and unparalleled functionality designed to elevate your riding experience and urban style."
+    },
+    {
+        "id": 85,
+        "name": "502.AGR",
+        "price": "$249.99",
+        "image": "./assets/images/502-AGR.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Distressed Gray",
+        "description": "Men's Ultra Scooter Jacket by Unik Ultra is a stylish and practical motorcycle jacket made from distressed gray cowhide leather. It features multiple pockets, including three exterior pockets and two inside concealed carry pockets. The jacket is equipped with silver hardware and a side zip snap-over design. For added comfort, it has a full sleeve zip-out liner. "
+    },
+    {
+        "id": 86,
+        "name": "10.LA",
+        "price": "$179.99",
+        "image": "./assets/images/10-LA.webp",
+        "category": "Mens Leather Jacket",
+        "color": "Black",
+        "description": "Our premium leather jacket. Expertly crafted from rich, lambskin leather, this jacket offers a luxurious feel and impressive durability. Designed for versatility and functionality, it features multiple pockets for secure storage, including two concealed carry pockets for discreet protection. The jacket’s elegant silver hardware and distinctive half belt detail enhance its sophisticated look, while the full sleeve zip-out liner  "
+    },
+    {
+        "id": 87,
+        "name": "10000.00",
+        "price": "$149.99",
+        "image": "./assets/images/10000-00.webp",
+        "category": "Mens Boots",
+        "color": "Black",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 88,
+        "name": "10001.GY",
+        "price": "$149.99",
+        "image": "./assets/images/10001-GY.webp",
+        "category": "Mens Boots",
+        "color": "Gray",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 89,
+        "name": "10004.00",
+        "price": "$149.99",
+        "image": "./assets/images/10004-00.webp",
+        "category": "Mens Boots",
+        "color": "Brown",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 90,
+        "name": "12000.00",
+        "price": "$149.99",
+        "image": "./assets/images/12000-00.webp",
+        "category": "Ladies Boots",
+        "color": "Black",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 91,
+        "name": "12000.17",
+        "price": "$149.99",
+        "image": "./assets/images/12000-17.webp",
+        "category": "Ladies Boots",
+        "color": "Black and Purple",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 91,
+        "name": "12004.00",
+        "price": "$149.99",
+        "image": "./assets/images/12004-00.webp",
+        "category": "Ladies Boots",
+        "color": "Black",
+        "description": "These motorcycle leather boots are crafted for the discerning rider who demands both style and functionality. Built to withstand the rigors of the open road while providing unparalleled comfort, they are a testament to quality craftsmanship and modern design "
+    },
+    {
+        "id": 92,
+        "name": "TW205.01",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-01.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Red",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 93,
+        "name": "TW205.11",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-11.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Green",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 94,
+        "name": "TW205.14",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-14.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and White",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 95,
+        "name": "TW205.16",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-16.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Orange",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 96,
+        "name": "TW206.03",
+        "price": "$49.99",
+        "image": "./assets/images/TW206-03.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Blue",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 97,
+        "name": "TW205.17",
+        "price": "$49.99",
+        "image": "./assets/images/TW205-17.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Purple",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 98,
+        "name": "TW207.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW207-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Red and Blue",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 99,
+        "name": "TW208.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW208-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Green",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 100,
+        "name": "TW210.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW210-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Pink and Gray",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 101,
+        "name": "TW211.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW211-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Brown",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 102,
+        "name": "TW212.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW212-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "White and Blue",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 103,
+        "name": "TW216.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW216-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Blue",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 104,
+        "name": "TW217.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW217-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and White",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 105,
+        "name": "TW218.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW218-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and Red",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 106,
+        "name": "TW220.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW220-00.webp",
+        "category": "Mens Flannel Shirt",
+        "color": "Black and White",
+        "description": "The Men's Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 107,
+        "name": "TW255.22",
+        "price": "$49.99",
+        "image": "./assets/images/TW255-22.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and Pink",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 108,
+        "name": "TW255.01",
+        "price": "$49.99",
+        "image": "./assets/images/TW255-01.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and Red",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 109,
+        "name": "TW255.16",
+        "price": "$49.99",
+        "image": "./assets/images/TW255-16.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and Orange",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 110,
+        "name": "TW255.20",
+        "price": "$49.99",
+        "image": "./assets/images/TW255-20.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and Gray",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 111,
+        "name": "TW262.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW262-00.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "White and Blue",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 112,
+        "name": "TW260.00",
+        "price": "$49.99",
+        "image": "./assets/images/TW260-00.webp",
+        "category": "Ladies Flannel Shirt",
+        "color": "Black and White",
+        "description": "The Ladies Flannel Shirt blends classic style with rugged functionality. Crafted from high-quality cotton and designed in Pakistan, this shirt features a striking black and gray color scheme that complements its robust construction. Perfect for both casual wear and outdoor activities, it combines comfort with durability, making it a versatile addition to any wardrobe."
+    },
+    {
+        "id": 113,
+        "name": "2611.RUB",
+        "price": "$119.99",
+        "image": "./assets/images/2611-RUB.webp",
+        "category": "Mens Leather Vest",
+        "color": "Distressed Brown",
+        "description": " Crafted from cowhide leather and meticulously designed in Pakistan, this vest features a distinctive distressed brown color that exudes character and sophistication. Ideal for motorcycle enthusiasts and those who appreciate classic fashion, it offers practicality with its array of pockets, including concealed carry options, ensuring both functionality and timeless appeal."
+    },
+    {
+        "id": 114,
+        "name": "2611.AGR",
+        "price": "$119.99",
+        "image": "./assets/images/2611-AGR.webp",
+        "category": "Mens Leather Vest",
+        "color": "Distressed Gray",
+        "description": " Crafted from cowhide leather and meticulously designed in Pakistan, this vest features a distinctive distressed brown color that exudes character and sophistication. Ideal for motorcycle enthusiasts and those who appreciate classic fashion, it offers practicality with its array of pockets, including concealed carry options, ensuring both functionality and timeless appeal."
+    },
+    {
+        "id": 115,
+        "name": "2611.GN",
+        "price": "$119.99",
+        "image": "./assets/images/2611-GN.webp",
+        "category": "Mens Leather Vest",
+        "color": "Gray",
+        "description": " Crafted from cowhide leather and meticulously designed in Pakistan, this vest features a distinctive distressed brown color that exudes character and sophistication. Ideal for motorcycle enthusiasts and those who appreciate classic fashion, it offers practicality with its array of pockets, including concealed carry options, ensuring both functionality and timeless appeal."
+    },
+    {
+        "id": 116,
+        "name": "602.00",
+        "price": "$69.99",
+        "image": "./assets/images/602-00.webp",
+        "category": "Mens Leather Vest",
+        "color": "Black",
+        "description": "The Men's Premium Traditional Snap Front Vest by Silver Bike blends classic design with practical features. Made from cowhide leather, it includes two exterior pockets, two interior concealed carry pockets, black hardware for a polished look, and plain sides for comfort, making it suitable for various settings."
+    },
+    {
+        "id": 117,
+        "name": "603.00",
+        "price": "$69.99",
+        "image": "./assets/images/603-00.webp",
+        "category": "Mens Leather Vest",
+        "color": "Black",
+        "description": "The Men's Premium Traditional Snap Front Vest by Silver Bike blends classic design with practical features. Made from cowhide leather, it includes two exterior pockets, two interior concealed carry pockets, black hardware for a polished look, and plain sides for comfort, making it suitable for various settings."
+    },
+    {
+        "id": 118,
+        "name": "7107.00",
+        "price": "$119.99",
+        "image": "./assets/images/7107-00.webp",
+        "category": "Mens Leather Chaps",
+        "color": "Black",
+        "description": "Unik Premium leather chaps designed for durability and style. With reinforced stitching, silver hardware, and an adjustable fit, these chaps are ideal for bikers. Made in Pakistan."
+    },
+    {
+        "id": 119,
+        "name": "7174.00",
+        "price": "$129.99",
+        "image": "./assets/images/7174-00.webp",
+        "category": "Ladies Leather Chaps",
+        "color": "Black",
+        "description": "Unik Premium leather chaps designed for durability and style. With reinforced stitching, silver hardware, and an adjustable fit, these chaps are ideal for bikers. Made in Pakistan."
+    },
+    {
+        "id": 120,
+        "name": "7174.17",
+        "price": "$129.99",
+        "image": "./assets/images/7174-17.webp",
+        "category": "Ladies Leather Chaps",
+        "color": "Purple",
+        "description": "Unik Premium leather chaps designed for durability and style. With reinforced stitching, silver hardware, and an adjustable fit, these chaps are ideal for bikers. Made in Pakistan."
+    },
+    {
+        "id": 121,
+        "name": "7174.ANT",
+        "price": "$129.99",
+        "image": "./assets/images/7174-ANT.webp",
+        "category": "Ladies Leather Chaps",
+        "color": "Brown",
+        "description": "Unik Premium leather chaps designed for durability and style. With reinforced stitching, silver hardware, and an adjustable fit, these chaps are ideal for bikers. Made in Pakistan."
+    },
+    {
+        "id": 122,
+        "name": "7174.GY",
+        "price": "$129.99",
+        "image": "./assets/images/7174-GY.webp",
+        "category": "Ladies Leather Chaps",
+        "color": "Gray",
+        "description": "Unik Premium leather chaps designed for durability and style. With reinforced stitching, silver hardware, and an adjustable fit, these chaps are ideal for bikers. Made in Pakistan."
+    }
+]

@@ -1,0 +1,22 @@
+main {
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+    line-height: 2;
+}
+
+main input {
+    height: 30px;
+    width: 300px;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: gray;
+    color: white;
+}
