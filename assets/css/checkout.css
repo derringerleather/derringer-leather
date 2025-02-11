@@ -4,3 +4,19 @@ main {
     line-height: 2;
     padding: 10px;
 }
+
+main input {
+    width: 250px;
+    height: 30px;
+}
+
+main .btn {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+main .btn:hover {
+    background-color: gray;
+    color: white;
+}
