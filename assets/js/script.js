@@ -68,10 +68,10 @@ const createFooter = () => {
             <div class="col-4">
                 <h3>SHOP</h3>
                 <a href="jackets.html"><p>Jackets</p></a>
-                <a href="collection.html?category=Ladies%20Leather%20Vest"><p>Womens</p></a>
+                <a href="collection.html?category=Ladies%20Leather%20Vest"><p>Vests</p></a>
                 <a href="flannels.html"><p>Flannels</p></a>
                 <a href="hats.html"><p>Hats</p></a>
-                <a href="ladies-bags.html"><p>Ladies Bags</p></a>
+                <a href="collection.html?category=Clip%20on%20Bag"><p>Ladies Bags</p></a>
                 <a href="accessories.html"><p>Accessories</p></a>
             </div>
             <div class="col-4">
