@@ -1357,5 +1357,50 @@
         "category": "Vest Laces",
         "color": "Pink",
         "description": "Upgrade your biker ensemble with our premium cowhide leather vest laces, meticulously crafted to add a touch of rugged sophistication to your riding gear. These laces not only enhance the aesthetic appeal of your vest but also provide durability and comfort that withstands the rigors of the road. Our vest laces in premium cowhide leather are designed for bikers who appreciate quality craftsmanship and timeless style, offering both functionality and a distinctive look for any motorcycle enthusiast."
+    },
+     {
+        "id": 150,
+        "name": "5735.190",
+        "price": "$69.99",
+        "image": "./assets/images/5735-190.webp",
+        "category": "Thigh Bag",
+        "color": "Purple",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
+    },
+     {
+        "id": 151,
+        "name": "5735.194",
+        "price": "$69.99",
+        "image": "./assets/images/5735-194.webp",
+        "category": "Thigh Bag",
+        "color": "Red",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
+    },
+     {
+        "id": 152,
+        "name": "5735.00",
+        "price": "$69.99",
+        "image": "./assets/images/5735-GY.webp",
+        "category": "Thigh Bag",
+        "color": "Gray",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
+    },
+     {
+        "id": 153,
+        "name": "5735.TAN",
+        "price": "$69.99",
+        "image": "./assets/images/5735-TAN.webp",
+        "category": "Thigh Bag",
+        "color": "Brown",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
+    },
+     {
+        "id": 154,
+        "name": "2083.00",
+        "price": "$69.99",
+        "image": "./assets/images/2083-00.webp",
+        "category": "Thigh Bag",
+        "color": "Black",
+        "description": "Enhance your motorcycle gear with the Ladies Leather Thigh Bags from Unik, meticulously crafted from high-quality cowhide leather. Designed for both style and practicality, these thigh bags feature concealed carry pockets, offering secure storage while complementing your riding attire with their sleek design and durable construction."
     }
 ]
